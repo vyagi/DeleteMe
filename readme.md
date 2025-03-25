@@ -1,2 +1,3 @@
-Todo:
-  - this is a file with things to do
+This is a file with things to do:
+  - list of skills
+  - list of things learned
